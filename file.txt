@@ -1,0 +1,15 @@
+6
+A
+B
+C
+D
+E
+F
+7
+A-B
+A-C
+B-D
+B-E
+E-F
+C-B
+C-F
